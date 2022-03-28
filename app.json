@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "body-geek",
+    "slug": "body-geek",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "body-geek"
+}
